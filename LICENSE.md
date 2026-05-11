@@ -1,4 +1,4 @@
-# 
+# smart Bitwarden for macOS Extension | secure-backup + phishing-detection offers the most advanced Bitwarden for macOS extension, with secure-backup and phishing-detection. Ideal
 
 
 
